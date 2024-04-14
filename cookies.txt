@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	uMZ7rsd0V39lGlovPq2emn0stjlmuP035LBnx3MTUo8-1712526851-1.0.1.1-MvuUxszaGySc8p4C2T3nOh.5MAsEszho0ARNmp7xGXaBwmXYacLzS4BDhkqWAfAk2WDzIXTJGMyMK2fgLST5Lg
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+t.me	TRUE	/	FALSE	1999999999	stel_ssid	0303878de9bbafdf2f_2868282396637228129
+t.me	TRUE	/	FALSE	1999999999	samesite	None
+

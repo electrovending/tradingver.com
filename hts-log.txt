@@ -1,0 +1,12 @@
+HTTrack3.49-1+htsswf+htsjava launched on Wed, 10 Apr 2024 23:49:23 at http://tradingver.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" http://tradingver.com/ -O1 "C:\Mis lugares Web\tradingver" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:49:33	Error: 	"Not Found" (404) at link tradingver.com/POST (from tradingver.com/WebResource.axd?d=cJxqOlHcz0V4eJAOA5UjP8Oo1EAnKd2fdWGwV6RpW9Uwk3T99KssfUrVEAIXcxppCZvyMlT2-mBVORgtSguojvzvlbJ5wf_P0QTnp65RmfI1&t=638393006620000000)
+
+HTTrack Website Copier/3.49-1 mirror complete in 10 seconds : 22 links scanned, 20 files written (3854110 bytes overall), 5 files updated [103186 bytes received at 10318 bytes/sec], 108793 bytes transferred using HTTP compression in 5 files, ratio 86%
+(1 errors, 0 warnings, 0 messages)

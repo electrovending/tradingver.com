@@ -1,0 +1,337 @@
+
+.order_book
+ {  display: grid;
+    grid-template-columns: 300px 450px 450px;
+   
+    font: 1.1em/1.1 Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+
+
+.dropdown_estilo_tabla_combos
+{
+color: #fff;
+font-size: 18px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #5D6D7E;
+font-weight: bold;
+}
+
+ .enlaces-container {
+      display: flex;
+    }
+
+    .enlace {
+      margin-right: 10px;
+      text-decoration: none;
+      color: black;
+      cursor: pointer;
+      font-family: 'Microsoft Sans Serif', sans-serif;
+      font-size: 14px;
+    }
+
+.dropdown_estilo_sxl
+{
+color: #fff;
+font-size: 18px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #5D6D7E;
+font-weight: bold;
+}
+
+
+.linea_de_informe
+ {  display: grid;
+    grid-template-columns: 2PX 2px 800px;
+   
+    font: 1.1em/1.1 Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+.dropdown_estilo_capital
+{
+color: #fff;
+font-size: 18px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #649B9E;
+font-weight: bold;
+}
+
+.botones_y_rsi
+{  display: grid;
+    grid-template-columns: 1000PX 200px;
+    font: 1.1em/1.1 Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+.variacion_moneda_seleccionada
+ {  display: grid;
+    grid-template-columns: 200PX 800px;
+    font: 1.1em/1.1 Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+.btc_encabezado
+ {  display: grid;
+    grid-template-columns: 450PX 100px 150px 150px 150px 150px;
+   
+    font: 1.1em/1.1 Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+    
+    }
+
+.soporte_resistencia {
+  
+  display: grid;
+  grid-template-columns: 600px 600px;
+  grid-template-rows: auto auto;
+  grid-gap: 1px;
+
+}
+
+.grafica_principal {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 1px;
+  
+} 
+
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 10px 160px 300px 250px;
+    grid-gap: 1px;
+  
+} 
+ /* 500px grid-template-columns: repeat(6, 1fr); #E6E6E6 background-color: #566573   text-shadow: 1px 1px 1px grey;  */
+
+  .encabezado > div {
+            border-radius: 8px;
+            padding: 2px;
+            background-color: #E6E6E6;
+            border: 1px solid rgb(38, 38, 38);
+            font: 1.1em/1.2 Arial, Helvetica, sans-serif;
+            text-align: center;
+                        
+        }
+
+
+/*  grid-column: column 4 columna 4 grid 2 renglon 2  grid-row: 2/4 me ocupara dos renglones y lo mismo para column   */
+.dos22 {
+  grid-column:4;
+  grid-row: 2;
+  
+ 
+}
+
+.encabezado {
+    display: grid ;
+    grid-template-columns: 360px 230px 350px 263px 263px;
+    
+    grid-auto-rows: minmax(40px, auto);
+   
+}
+
+ /*
+
+grid-gap: 5px; dentro de encabezado me separa las celdas
+
+body {
+  background-color: black;  box-shadow: 0px 0px 2px rgba(0,0,0,0.1);   border-radius: 8px;
+}
+ */
+
+.marco_entradas2 {
+  background-color: #E6E6E6;
+  border-radius: 8px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #bbbbbb;
+  box-shadow: 0px 0px 4px rgba(0,0,0,0.15);
+  display: grid;
+  grid-template-columns: 160PX 160px 160px 160px 160px 160px 160px;
+  grid-template-rows: 30PX 60px 60px 60px 60px 60px 60px;
+ 
+}  
+
+
+.posiciones 
+{
+  margin-top: 15px;
+  background-color: #C8C8C8;
+  border-radius: 8px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #bbbbbb;
+  box-shadow: 0px 0px 4px rgba(0,0,0,0.15);
+  display: grid;
+  grid-template-columns: 160PX 160px 160px 160px 160px 160px 160px;
+  height: auto;
+}
+
+
+.dropdown_estilo
+{
+color: #fff;
+font-size: 20px;
+padding: 5px 10px;
+border-radius: 5px;
+background-color: #5D6D7E;
+font-weight: bold;
+}
+
+.btn-neon
+{
+  background-color: #E6E6E6;
+  border-radius: 8px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #152534;
+  box-shadow: 0px 0px 4px rgba(0,0,0,0.15);
+ 
+  
+}  
+
+.esto_es_de_muestra_ejemplo {
+    background: #efefef; 
+    background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
+    background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
+    background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
+    box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+    padding: 0 20px;
+    border-radius: 10px;  
+    list-style: none;
+    position: relative;
+    display: inline-table;
+}  
+
+ /*
+
+******************************************************************
+
+.tabla-css tbody tr:nth-of-type(even){
+ background-color: #ffffffe2;   
+
+el siguiente va en .tabla-css thead tr { para eliminar borde tabla:
+    border-collapse: collapse;
+}
+
+agrega borde al texto
+.tabla-css {
+      text-shadow: 0.2px  0px 0px black,
+               0px  0.2px 0px black,
+              -0.2px  0px 0px black,
+               0px -0.2px 0px black;
+ */
+
+.tabla-css {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 600px;
+    box-shadow: 0 0 5px #3d3b3b;
+    font-size: large;
+    font-family: Arial, sans-serif;
+}
+.tabla-css thead tr {
+    background-color: #A5A5A5;
+    color:#000000;
+    text-align: center;
+}
+
+
+.tabla-css th,
+.tabla-css td {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+
+.tabla-css tbody tr:nth-of-type(even){
+  
+}
+
+
+
+
+.filaAngosta{
+
+    height: 50%;
+
+}
+
+ /*
+ estilo de grid de porcentaje 24h
+*************************************padding-top: 2px;****************smaller  font-size: smaller;
+ */
+  /* Estilos específicos para la tabla con el id "myTable" */
+/* Estilos específicos para la tabla con el id "myTable" tabla_lista_borrar */ 
+     #myTable {
+    width: 35%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif; 
+    font-size: 18px;
+       
+}
+
+#myTable th, #myTable td {
+    text-align: left;
+    border-bottom: 5px solid #ddd;
+    padding: 0;
+   
+    
+}
+
+#myTable th {
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+#myTable th:hover {
+    background-color: #ddd;
+}
+
+#myTable tr:hover {
+    background-color: #f5f5f5;
+}
+
+#myTable a {
+    text-decoration: none;
+    color: #333;
+}
+
+#tabla_lista_borrar {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+}
+
+#tabla_lista_borrar td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+        
+ #tabla_lista_borrar th {
+            background-color: #f2f2f2;
+        }
+  #tabla_lista_borrar a {
+            text-decoration: none;
+        }        
+         
